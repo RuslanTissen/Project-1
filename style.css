@@ -622,6 +622,7 @@ hr {
 
 .text-wraper p:nth-child(2) {
   font-size: .7rem;
+  font-style: italic;
 }
 
 .sec5 {
